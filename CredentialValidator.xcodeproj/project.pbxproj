@@ -31,7 +31,8 @@
 		14B6D5FD2BEB5DFD00A9B26A = {
 			isa = PBXGroup;
 			children = (
-				14B6D6092BEB5DFD00A9B26A /* CredentialValidator */,
+				14B6D6112BEB5EB000A9B26A /* Validator.swift */,
+				14B6D60A2BEB5DFD00A9B26A /* CredentialValidator.h */,
 				14B6D6082BEB5DFD00A9B26A /* Products */,
 			);
 			sourceTree = "<group>";
@@ -42,15 +43,6 @@
 				14B6D6072BEB5DFD00A9B26A /* CredentialValidator.framework */,
 			);
 			name = Products;
-			sourceTree = "<group>";
-		};
-		14B6D6092BEB5DFD00A9B26A /* CredentialValidator */ = {
-			isa = PBXGroup;
-			children = (
-				14B6D6112BEB5EB000A9B26A /* Validator.swift */,
-				14B6D60A2BEB5DFD00A9B26A /* CredentialValidator.h */,
-			);
-			path = CredentialValidator;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
