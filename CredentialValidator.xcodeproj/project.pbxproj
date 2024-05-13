@@ -7,8 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		14B652D82BF1FC3400D1C48F /* Validator.swift in Resources */ = {isa = PBXBuildFile; fileRef = 14B6D6112BEB5EB000A9B26A /* Validator.swift */; };
-		14B652D92BF1FC3800D1C48F /* CredentialValidator.h in Resources */ = {isa = PBXBuildFile; fileRef = 14B6D60A2BEB5DFD00A9B26A /* CredentialValidator.h */; };
 		14B6D60B2BEB5DFD00A9B26A /* CredentialValidator.h in Headers */ = {isa = PBXBuildFile; fileRef = 14B6D60A2BEB5DFD00A9B26A /* CredentialValidator.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		14B6D6122BEB5EB000A9B26A /* Validator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14B6D6112BEB5EB000A9B26A /* Validator.swift */; };
 /* End PBXBuildFile section */
@@ -117,8 +115,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				14B652D92BF1FC3800D1C48F /* CredentialValidator.h in Resources */,
-				14B652D82BF1FC3400D1C48F /* Validator.swift in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
